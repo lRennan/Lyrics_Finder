@@ -1,4 +1,128 @@
 # Getting Started with Create React App
+# Lyrics Finder 🎶
+
+A simple **React.js** application that allows users to search for and view song lyrics. This project uses the **Lyrics.ovh API** to fetch song lyrics based on the artist and song name.
+
+---
+
+### Features
+- **Search for lyrics**: Enter the **artist name** and **song title** to find the lyrics.
+- **Error handling**: Displays an error message if no results are found or if the input is empty.
+- **Simple UI**: The app provides a clean and responsive interface to view the lyrics.
+
+---
+
+### Technologies Used
+- **React.js**: For building the frontend of the application.
+- **Axios**: For making HTTP requests to the Lyrics.ovh API.
+- **Lyrics.ovh API**: Used to retrieve song lyrics.
+
+---
+
+### How to Use
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/your-username/lyrics-finder.git
+    cd lyrics-finder
+    ```
+
+2. **Install dependencies**:
+    ```bash
+    npm install
+    ```
+
+3. **Start the application**:
+    ```bash
+    npm start
+    ```
+
+4. Open your browser and navigate to `http://localhost:3000` to see the app in action!
+
+---
+
+### How it Works
+- The app uses **React state** to handle user input and song lyrics display.
+- Users can type the name of the artist and the song in the respective fields.
+- When the user clicks the search button, the app sends a request to the **Lyrics.ovh API** using **Axios**.
+- If the song is found, the lyrics are displayed on the page. If the song is not found or there is an error, an appropriate error message is shown.
+
+---
+
+### Code Structure
+
+- **App.js**: Main component that handles state, user input, and API requests.
+- **App.css**: Contains basic styles for the layout and design of the app.
+
+---
+
+### Improvements
+
+- Add a loading spinner to show while waiting for the API response.
+- Display album artwork or other song details along with the lyrics.
+- Integrate more APIs for better song data retrieval.
+
+---
+
+### Contributing
+
+Feel free to fork this project, make improvements, and submit **pull requests**. If you encounter any issues, please open an **issue** and I will try to address it as soon as possible.
+
+---
+
+### License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+### Acknowledgments
+- **GeeksforGeeks**: For the tutorial on building the basic song lyrics finder app.
+- **Lyrics.ovh**: For providing the free API to fetch song lyrics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
