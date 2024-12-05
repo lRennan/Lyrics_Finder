@@ -9,7 +9,10 @@ A simple **React.js** application that allows users to search for and view song 
 - **Error handling**: Displays an error message if no results are found or if the input is empty.
 - **Simple UI**: The app provides a clean and responsive interface to view the lyrics.
 
----
+---![pageone](https://github.com/user-attachments/assets/f1ddc0fa-036b-43db-8c3d-43c8ce610d89)
+![pagetwo](https://github.com/user-attachments/assets/2818188f-6d02-4cb7-99bf-9aa55d531605)
+
+
 
 ### Technologies Used
 - **React.js**: For building the frontend of the application.
@@ -45,6 +48,8 @@ A simple **React.js** application that allows users to search for and view song 
 - Users can type the name of the artist and the song in the respective fields.
 - When the user clicks the search button, the app sends a request to the **Lyrics.ovh API** using **Axios**.
 - If the song is found, the lyrics are displayed on the page. If the song is not found or there is an error, an appropriate error message is shown.
+
+
 
 ---
 
