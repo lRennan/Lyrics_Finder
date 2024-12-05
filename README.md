@@ -9,9 +9,11 @@ A simple **React.js** application that allows users to search for and view song 
 - **Error handling**: Displays an error message if no results are found or if the input is empty.
 - **Simple UI**: The app provides a clean and responsive interface to view the lyrics.
 
+        This is the home and only page
+
     ![Pagene](https://github.com/user-attachments/assets/f967a1ff-2821-4e30-a07d-eed9cf9fb95e)
 
-  if you put all correctly the lyrics and the singer
+      if you put all correctly the lyrics and the singer
   
   ![Pageto](https://github.com/user-attachments/assets/48c41d67-1d55-4151-b92b-3e84d44a47bd)
 
