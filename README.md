@@ -95,11 +95,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ### Acknowledgments
 - **GeeksforGeeks**: For the tutorial on building the basic song lyrics finder app.
 - **Lyrics.ovh**: For providing the free API to fetch song lyrics.
-
-
-
-
-
-
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
