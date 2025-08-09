@@ -86,12 +86,6 @@ Feel free to fork this project, make improvements, and submit **pull requests**.
 
 ---
 
-### License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ### Acknowledgments
 - **GeeksforGeeks**: For the tutorial on building the basic song lyrics finder app.
 - **Lyrics.ovh**: For providing the free API to fetch song lyrics.
